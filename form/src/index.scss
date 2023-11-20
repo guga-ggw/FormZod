@@ -51,4 +51,17 @@ body{
             border-bottom: 2px solid black;
         }
     }
+    p{
+        color: red;
+        
+    }
+    button{
+        width: 200px;
+        margin-top: -50px;
+        height: 40px;
+        border-radius: 10px;
+        border: none;
+        background-color: rgb(167, 21, 21);
+        color: white;
+    }
 }
